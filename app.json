@@ -1,0 +1,19 @@
+{
+  "appKey": "OHCxsFvRkY1fM1e7TnwwsWo2DXZcrq8v",
+  "appSecret": "lOc4WeMOIe7d4Z3uPdfqDogoPqv5nKJk",
+  "projectId": "fbccf169f0f212d9d908daad27916553",
+  "id": 250,
+  "name": "test-celve",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/qiaoli900311/test19.git",
+    "isPrivate": 0,
+    "username": "qiaoli900311",
+    "password": "48111400qiaoli"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
